@@ -50,7 +50,12 @@ namespace Product.API.Infrastuctures.Repositiories
                 using var conn = await _databaseConnectionFactory.CreateConnectionAsync();
                 var db = new QueryFactory(conn, new SqlServerCompiler());
 
-                var result = db.Query("tbl_Account");
+                var result = db.Query("tbl_Account").Paginate(1,10);
+
+                foreach (var book in result)
+                {
+                    Console.WriteLine($"{book.Title}: {book.AuthorName}");
+                }
 
                 return await result.GetAsync<Account>();
             }

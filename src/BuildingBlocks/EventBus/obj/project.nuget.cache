@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "hRrvutYLK2Lz8BzvcLmfeH1vDWhtk5cpkm7GICTKWDQOmfYN3mi0lyBGtsetDslEG0Wu66fpgIODq/IuUkUi+A==",
+  "dgSpecHash": "2NVFCs4ve1sXdvIjaqxaoioxy/3LtoqmZuc0Zmaeu6HgvCCCsVaNNKcD86OrWOl2EyGEm8wSJyhklGTEdvfCBQ==",
   "success": true,
   "projectFilePath": "D:\\git\\sql-kata\\src\\BuildingBlocks\\EventBus\\EventBus.csproj",
   "expectedPackageFiles": [
