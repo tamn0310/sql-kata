@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "A62JrEvMPd1kLB32qh4+5t7Tjmnu7Mwt42Yp9nSmiFh+5EGlUQvhXtYkEjjeG1Cm1wjO1e/IGpFsFeVDh2LHXA==",
+  "dgSpecHash": "2NVFCs4ve1sXdvIjaqxaoioxy/3LtoqmZuc0Zmaeu6HgvCCCsVaNNKcD86OrWOl2EyGEm8wSJyhklGTEdvfCBQ==",
   "success": true,
-  "projectFilePath": "C:\\Project\\sql-kata\\src\\BuildingBlocks\\EventBus\\EventBus.csproj",
+  "projectFilePath": "D:\\git\\sql-kata\\src\\BuildingBlocks\\EventBus\\EventBus.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Admin\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+    "C:\\Users\\tamn\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
   ],
   "logs": []
 }

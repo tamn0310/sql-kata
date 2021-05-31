@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Project\\sql-kata\\src\\BuildingBlocks\\EventBus\\EventBus.csproj": {}
+    "D:\\git\\sql-kata\\src\\BuildingBlocks\\EventBus\\EventBus.csproj": {}
   },
   "projects": {
-    "C:\\Project\\sql-kata\\src\\BuildingBlocks\\EventBus\\EventBus.csproj": {
+    "D:\\git\\sql-kata\\src\\BuildingBlocks\\EventBus\\EventBus.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Project\\sql-kata\\src\\BuildingBlocks\\EventBus\\EventBus.csproj",
+        "projectUniqueName": "D:\\git\\sql-kata\\src\\BuildingBlocks\\EventBus\\EventBus.csproj",
         "projectName": "EventBus",
-        "projectPath": "C:\\Project\\sql-kata\\src\\BuildingBlocks\\EventBus\\EventBus.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Project\\sql-kata\\src\\BuildingBlocks\\EventBus\\obj\\",
+        "projectPath": "D:\\git\\sql-kata\\src\\BuildingBlocks\\EventBus\\EventBus.csproj",
+        "packagesPath": "C:\\Users\\tamn\\.nuget\\packages\\",
+        "outputPath": "D:\\git\\sql-kata\\src\\BuildingBlocks\\EventBus\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\tamn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -60,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

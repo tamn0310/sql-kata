@@ -360,3 +360,8 @@ MigrationBackup/
  
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+.dtbcache.v2
+
+.vs\sql-kata
+src\BuildingBlocks\EventBus\obj\Debug\net5.0
